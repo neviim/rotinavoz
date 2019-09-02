@@ -1,4 +1,4 @@
-# rotinavoz
+# Rotina de voz - texto para audio.
 	Reproduz texto em áudio, rotina em python
 
 # Dependencias
